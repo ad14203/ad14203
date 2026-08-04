@@ -23,7 +23,7 @@ Student | Developer | ML Learner | Tech Enthusiast
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+![Top Languages](https://www.linkedin.com/in/adarsh-pradeep-818865299?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
 ---
 

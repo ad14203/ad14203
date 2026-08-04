@@ -30,7 +30,7 @@ Student | Developer | ML Learner | Tech Enthusiast
 ## 🔗 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adarsh-pradeep-818865299?utm_source=share_via&utm_content=profile&utm_medium=member_android)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/your-username)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/ad14203)
 
 ---
 

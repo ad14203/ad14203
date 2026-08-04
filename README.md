@@ -1,11 +1,11 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Adarsh Pradeep 👋
 
 Student | Developer | ML Learner | Tech Enthusiast
 
-- 🎓 Studying at [Your University]
+- 🎓 Studying at Vimal Jyothi Engineering College 
 - 💻 Currently working on [Your Project]
 - 🌱 Currently learning [Skill/Tech]
-- 📫 Reach me at: your.email@example.com
+- 📫 Reach me at: adarshpradeep475@gmail.com
 - ⚡ Fun fact: [something about you]
 
 ---

@@ -1,4 +1,4 @@
-# Hi there, I'm Adarsh Pradeep 👋
+# Hi there, I'm Adarsh Pradeep👋
 
 🎓 B.Tech Computer Science (Cybersecurity) Student at Vimal Jyothi Engineering College
  

@@ -1,12 +1,11 @@
 # Hi there, I'm Adarsh Pradeep 👋
 
 🎓 B.Tech Computer Science (Cybersecurity) Student at Vimal Jyothi Engineering College
-
-- 🎓 Studying at Vimal Jyothi Engineering College 
+ 
 - 💻 Currently working on [Your Project]
-- 🌱 Currently learning [Skill/Tech]
+- 🌱 Currently learning Ethical Hacking, Linux, and Network Security
 - 📫 Reach me at: adarshpradeep475@gmail.com
-- ⚡ Fun fact: [something about you]
+- ⚡ Fun fact: Always curious about how systems work and how to secure them.
 
 ---
 
@@ -27,6 +26,12 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adarsh-pradeep-818865299?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/ad14203)
+
+---
+
+## 🚀 Featured Projects
+
+
 
 ---
 

@@ -1,7 +1,6 @@
 # Hi there, I'm Adarsh Pradeep 👋
 
-🎓 B.Tech Computer Science (Cybersecurity) Student at Vimal Jyothi Engineering College
- 
+- 🎓 B.Tech Computer Science (Cybersecurity) Student at Vimal Jyothi Engineering College
 - 💻 Currently working on Cybersecurity Projects
 - 🌱 Currently learning Ethical Hacking, Linux, and Network Security
 - ⚡ Fun fact: Always curious about how systems work and how to secure them.

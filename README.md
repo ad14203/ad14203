@@ -1,6 +1,6 @@
 # Hi there, I'm Adarsh Pradeep 👋
 
-Student | Developer | ML Learner | Tech Enthusiast
+🎓 B.Tech Computer Science (Cybersecurity) Student at Vimal Jyothi Engineering College
 
 - 🎓 Studying at Vimal Jyothi Engineering College 
 - 💻 Currently working on [Your Project]

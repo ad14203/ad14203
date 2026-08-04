@@ -2,7 +2,7 @@
 
 🎓 B.Tech Computer Science (Cybersecurity) Student at Vimal Jyothi Engineering College
  
-- 💻 Currently working on [Your Project]
+- 💻 Currently working on Cybersecurity Projects
 - 🌱 Currently learning Ethical Hacking, Linux, and Network Security
 - 📫 Reach me at: adarshpradeep475@gmail.com
 - ⚡ Fun fact: Always curious about how systems work and how to secure them.
@@ -32,8 +32,8 @@
 
 ## 🚀 Featured Projects
 
-
-
+- 📌 [CyberHost](https://ad14203.github.io./CyberHost/)
+- 📌 [Portfolio Website](https://ad14203.github.io./Portfolio-Website/)
 ---
 
 ⭐️ From ad14203

@@ -26,7 +26,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adarsh-pradeep-818865299?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/ad14203)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adarshpradeep475@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-FFFFFF?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:adarshpradeep475@gmail.com)
+
 ---
 
 ## 🚀 Featured Projects
